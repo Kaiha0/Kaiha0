@@ -21,19 +21,20 @@
 
 ---
 
-## 🧠 Technical Skills
+##  Technical Skills
 
-### 🧑‍💻 Programming & Query Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
+###  Programming & Query Languages
 
-### 🤖 Machine Learning & NLP
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+###  Machine Learning & NLP
 - Supervised & Unsupervised Learning  
 - Feature Engineering & Model Evaluation  
 - Text Classification, NLP Pipelines  
 
-### 🗄️ Big Data Technologies
+###  Big Data Technologies
 
 ![Hadoop](https://img.shields.io/badge/Hadoop-FF652F?style=for-the-badge&logo=apachehadoop&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -42,33 +43,19 @@
 
 
 
-### ☁️ Cloud Platforms
+###  Cloud Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=aws,gcp" />
 </p>
+
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 
 - Google Cloud Platform (Cloud Storage, Dataproc, PySpark, BigQuery, BigQuery ML, Looker Studio)  
 - Amazon Web Services (EC2, S3, Kinesis, DynamoDB, API Gateway IAM basics)
 
 ---
-
-## 📂 Featured Projects
-
-🔹 **Fake Job Posting Detection (NLP & ML)**  
-- Text preprocessing, TF-IDF, classification models  
-- Real vs fake job postings using Kaggle dataset  
-
-🔹 **Mental Health Risk Detection using NLP**  
-- Social media language analysis  
-- Machine learning & statistical modeling  
-
-🔹 **Financial Fraud Detection**  
-- Pattern discovery, feature engineering  
-- Predictive modeling & evaluation  
-
-🔹 **E-Commerce User Behavior Analytics**  
-- Classification, regression & forecasting  
-- R, Python & data visualization  
 
 👉 Check my repositories for more details 👇
 
@@ -80,7 +67,7 @@
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kaihao2157@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
