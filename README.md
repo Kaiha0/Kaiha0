@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 Completed **Master in Data Science** at **University of Malaya**
 - 💡 Strong interest in **Machine Learning, NLP, and Data Analytics**
