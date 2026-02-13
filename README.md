@@ -1,67 +1,65 @@
-<h1 align="center">Hi 👋, I'm Kai Hao</h1>
+<h1 align="center">I'm Kai Hao</h1>
 <h3 align="center">Data Scientist | Machine Learning & NLP Enthusiast</h3>
 
 <p align="center">
-🎓 Master in Data Science — <b>University of Malaya, Malaysia</b>  
+Master in Data Science — <b>University of Malaya, Malaysia</b>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kai-hao&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=kai-hao&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-##  About Me
+## About
 
-- 🎓 Completed **Master in Data Science** at **University of Malaya**
-- 💡 Strong interest in **Machine Learning, NLP, and Data Analytics**
-- 🔍 Experienced in building **end-to-end data pipelines & ML models**
-- ☁️ Familiar with **Cloud & Big Data ecosystems**
-- 📈 Passionate about turning data into **actionable insights**
+- Master in Data Science from University of Malaya  
+- Strong focus on Machine Learning, NLP, and Data Engineering  
+- Experienced in building end-to-end ML pipelines and scalable data workflows  
+- Hands-on experience with Big Data ecosystems and cloud platforms  
+- Passionate about translating data into actionable business insights  
 
 ---
 
-##  Technical Skills
+## Technical Skills
 
-###  Programming & Query Languages
+### Programming & Query Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Machine Learning & NLP
 
-###  Machine Learning & NLP
-- Supervised & Unsupervised Learning  
-- Feature Engineering & Model Evaluation  
-- Text Classification, NLP Pipelines  
+![Supervised Learning](https://img.shields.io/badge/Supervised-Learning-2C3E50?style=for-the-badge)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised-Learning-2C3E50?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature-Engineering-2C3E50?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model-Evaluation-2C3E50?style=for-the-badge)
+![Text Classification](https://img.shields.io/badge/Text-Classification-2C3E50?style=for-the-badge)
+![NLP Pipelines](https://img.shields.io/badge/NLP-Pipelines-2C3E50?style=for-the-badge)
 
-###  Big Data Technologies
+### Big Data
 
 ![Hadoop](https://img.shields.io/badge/Hadoop-FF652F?style=for-the-badge&logo=apachehadoop&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-![HBase](https://img.shields.io/badge/Apache%20HBase-0A66C2?style=for-the-badge&logo=apachehbase&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![HBase](https://img.shields.io/badge/HBase-0A66C2?style=for-the-badge&logo=apachehbase&logoColor=white)
 
+### Cloud & Data Engineering
 
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Dataproc](https://img.shields.io/badge/Dataproc-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 
-###  Cloud Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp" />
-</p>
-
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-
-- Google Cloud Platform (Cloud Storage, Dataproc, PySpark, BigQuery, BigQuery ML, Looker Studio)  
-- Amazon Web Services (EC2, S3, Kinesis, DynamoDB, API Gateway IAM basics)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 ---
 
-👉 Check my repositories for more details 👇
-
----
-
-## 📫 Connect With Me
+## Connect
 
 <p>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
@@ -72,6 +70,4 @@
 </a>
 </p>
 
----
-
-⭐ *Feel free to explore my repositories and connect!*  
+*Feel free to explore my repositories and connect!* 
