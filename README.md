@@ -5,10 +5,6 @@
 Master in Data Science — <b>University of Malaya, Malaysia</b>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kai-hao&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## About
@@ -62,7 +58,7 @@ Master in Data Science — <b>University of Malaya, Malaysia</b>
 ## Connect
 
 <p>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/hooihao-yong-82941612b/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="mailto:kaihao2157@gmail.com">
